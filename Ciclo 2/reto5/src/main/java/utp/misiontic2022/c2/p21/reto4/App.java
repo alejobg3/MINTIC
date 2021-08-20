@@ -24,6 +24,6 @@ public class App
         var vista = new VentanaRequemimiento();
         vista.setVisible(true);
 
-        //
+        
     }
 }
